@@ -1,0 +1,47 @@
+7-segment driver
+http://www.adafruit.com/products/1427
+
+8-port shifter
+http://www.adafruit.com/products/395
+
+4-port-shifter
+http://www.adafruit.com/products/1875
+
+4-port shifter - i2c
+http://www.adafruit.com/products/757
+
+protoBoard
+http://www.adafruit.com/products/1148
+
+ribbon cable 26-pin
+http://www.adafruit.com/products/862
+or
+http://www.adafruit.com/products/1338
+
+serial-usb
+http://www.adafruit.com/products/954
+
+cable ribbon+breakout
+http://www.adafruit.com/products/914
+or
+http://www.adafruit.com/products/1754
+or
+http://www.adafruit.com/products/1105
+
+
+power USB 5v-1A
+http://www.adafruit.com/products/501
+
+panel-mount USB-uUSB
+http://www.adafruit.com/products/937
+
+panel-mount HDMI
+http://www.adafruit.com/products/978
+
+optional!!
+HDMI cable - 1ft
+http://www.adafruit.com/products/2197
+
+plate prototype
+http://www.adafruit.com/products/801
+
